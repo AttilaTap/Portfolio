@@ -38,8 +38,8 @@ Welcome to my digital portfolio—a reflection of my technical journey, passion 
 
 ## Contact & Links
 
-- **LinkedIn:** [Attila Tap's LinkedIn Profile](https://www.linkedin.com/in/attilatap/)
-- **Email:** [Send an email](mailto:attila.tap@email.com)
-- **Portfolio Live:** [https://portfolio.up.railway.app/](https://portfolio.up.railway.app/)
+- **LinkedIn:** [Attila Tap's LinkedIn Profile](https://www.linkedin.com/in/attila-tapai/)
+- **Email:** [Send an email](mailto:attila.tapai1@gmail.com)
+- **Portfolio Live:** [https://portfolio-attila-tapai.vercel.app/](https://portfolio-attila-tapai.vercel.app/)
 
 Feedback, queries, or collaboration ideas? Please don't hesitate to get in touch!
