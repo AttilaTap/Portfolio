@@ -1,15 +1,15 @@
 "use client";
-import { Github, Linkedin, Mail} from "lucide-react";
+import { Github, Linkedin, Mail, User} from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Linkedin size={20} />,
-		href: "https://www.linkedin.com/in/attila-tapai",
-		label: "LinkedIn",
-		handle: "@attila-tapai",
+		icon: <User size={20} />,
+		href: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+		label: "Under construction...",
+		handle: "Hello there!",
 	}
 ];
 
