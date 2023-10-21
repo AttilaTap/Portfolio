@@ -32,8 +32,8 @@ Welcome to my digital portfolio—a reflection of my technical journey, passion 
 
 1. Clone the repository: `git clone https://github.com/AttilaTap/Portfolio.git`
 2. Navigate to the project directory: `cd Portfolio`
-3. Install dependencies: `npm install`
-4. To run locally: `npm run dev`
+3. Install dependencies: `pnpm install`
+4. To run locally: `pnpm dev`
 5. For deployment specifics, refer to the deployment guide included in the repository.
 
 ## Contact & Links
