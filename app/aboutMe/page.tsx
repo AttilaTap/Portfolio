@@ -11,7 +11,7 @@ const sections = [
     icon: <User size={20} />,
     label: "About Me",
     content:
-      "I am [Your Name], a passionate full-stack developer with experience in building dynamic and responsive web applications. In my free time, I enjoy hiking, photography, and [other hobbies].",
+      "I am Attila, a passionate full-stack developer with experience in building dynamic and responsive web applications.",
   },
   {
     icon: <Code size={20} />,
