@@ -42,7 +42,7 @@ const sections = [
   {
     icon: <Code size={20} />,
     label: "Skills",
-    content: <>JavaScript, Typescript, Next.js, Node.js, Express.js, Puppeteer, mySQL, Tailwind, Styled Components, CSS, HTML.</>,
+    content: <>JavaScript, Typescript, React, Next.js, Node.js, Express.js, Vercel, Railway, Puppeteer, mySQL, Jest Tailwind, Styled Components, CSS, HTML.</>,
   },
   {
     icon: <Briefcase size={20} />,
