@@ -18,12 +18,11 @@ Welcome to my digital portfolio—a reflection of my technical journey, passion 
 
 - **About Me:** A narrative of my academic pursuits, industry experience, and professional milestones.
 - **Projects Showcase:** Dive into a collection of my most significant projects, each narrating a unique story of challenges and triumphs.
-- **Testimonials:** Words of appreciation and feedback from colleagues, mentors, and peers.
-- **Blog:** Insights, musings, and learnings from my tech journey.
+- **Contact informations:** Contact informations.
 
 ## Technologies & Tools
 
-- **Web Development:** Next.js (React.js), Tailwind CSS, Zustand
+- **Web Development:** Next.js (React.js), Python, Tailwind CSS, Zustand
 - **Backend & API:** Node.js, Express.js, MySQL
 - **Tools:** Visual Studio Code, MySQL Workbench
 - **Deployment:** GitHub Actions, Docker, Railway, Vercel
@@ -40,6 +39,6 @@ Welcome to my digital portfolio—a reflection of my technical journey, passion 
 
 - **LinkedIn:** [Attila Tap's LinkedIn Profile](https://www.linkedin.com/in/attila-tapai/)
 - **Email:** [Send an email](mailto:attila.tapai1@gmail.com)
-- **Portfolio Live:** [https://portfolio-attila-tapai.vercel.app/](https://portfolio-attila-tapai.vercel.app/)
+- **Portfolio Live:** [https://attila-tapai.vercel.app/](https://attila-tapai.vercel.app/)
 
 Feedback, queries, or collaboration ideas? Please don't hesitate to get in touch!
