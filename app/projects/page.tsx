@@ -21,7 +21,7 @@ export default async function ProjectsPage() {
 	}, {} as Record<string, number>);
 
 	const featured = allProjects.find((project) => project.slug === "what-was-that-meme")!;
-	const top2 = allProjects.find((project) => project.slug === "Tic-Tac-Toe_Game_with_AI")!;
+	const top2 = allProjects.find((project) => project.slug === "Tic-Tac-Toe_with_AI")!;
 	const top3 = allProjects.find((project) => project.slug === "nexTicket")!;
 	const sorted = allProjects
 		.filter((p) => p.published)
@@ -64,7 +64,7 @@ export default async function ProjectsPage() {
 												}).format(new Date(featured.date))}
 											</time>
 										) : (
-											<span>SOON</span>
+											<span>Released</span>
 										)}
 									</div>
 									<span className="flex items-center gap-1 text-xs text-zinc-500">
